@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 import os
 
 load_dotenv()
-api_key = os.getenv("OPENAI_API_KEY")
+api_key = os.getenv("OPENAI_API_KEY") # Insert your openai api key here
 
 
 st.set_page_config(page_title="AI Data Analyst Chatbot", layout="wide")
