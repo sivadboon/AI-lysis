@@ -115,7 +115,7 @@ def generate_data_summary():
     return summary
 
 def answer_user_query_with_gpt(query, df):
-    openai.api_key = api_key # Replace with your actual API key
+    openai.api_key = api_key
     st.session_state.chat_history.append({"role": "user", "content": query})
     system_msg = {
         "role": "system",
@@ -139,7 +139,7 @@ def answer_user_query_with_gpt(query, df):
 
 # ---------- GPT-4 Turbo Analysis ----------
 def analyze_plot_with_gpt(image_base64):
-    openai.api_key = api_key # Replace with your actual API key
+    openai.api_key = api_key
     prompt = "This is a plot generated from the dataset. Please analyze the visualization and provide observations, patterns, interpretation, and potential insights."
 
     image_message = {
@@ -166,7 +166,7 @@ def analyze_plot_with_gpt(image_base64):
 
 def analyze_nonplot_output_with_gpt(output_text):
     import openai
-    openai.api_key = api_key # Replace with your actual API key
+    openai.api_key = api_key
 
     prompt = f"This is a statistical summary or output derived from a dataset:\n\n{output_text}\n\nPlease analyze it and provide meaningful observations, patterns, and interpretations."
 
