@@ -6,7 +6,7 @@ This is an interactive AI-powered chatbot that helps users analyze and clean dat
 
 ## 👥 Contributors
 
-- 🎓 **Aloysius Ang** (`U2120520B`)
+- 🎓 **Aloysius Ang** (`U2120520B`) — [GitHub](https://github.com/ConcealedSword)
 - 🎓 **Wang Shang An Davis** (`U2121998F`) — [GitHub](https://github.com/sivadboon)
 
 
