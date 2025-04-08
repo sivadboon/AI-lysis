@@ -12,7 +12,7 @@ This is an interactive AI-powered chatbot that helps users analyze and clean dat
 
 ## 🚀 Features
 
-- Upload multiple CSV or Excel files.
+- Upload CSV or Excel file.
 - Automatically detect and clean missing values and datetime formats.
 - Generate statistical summaries and visualizations (histograms, boxplots, correlation heatmaps, pair plots).
 - Ask questions about your dataset using natural language.
