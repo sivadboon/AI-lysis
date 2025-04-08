@@ -4,10 +4,11 @@ This is an interactive AI-powered chatbot that helps users analyze and clean dat
 
 ---
 
-## Contributors
+## 👥 Contributors
 
-ALOYSIUS ANG ~ U2120520B
-WANG SHANG AN DAVIS ~ U2121998F
+- 🎓 **Aloysius Ang** (`U2120520B`)
+- 🎓 **Wang Shang An Davis** (`U2121998F`) — [GitHub](https://github.com/sivadboon)
+
 
 ## 🚀 Features
 
