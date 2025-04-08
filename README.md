@@ -4,6 +4,11 @@ This is an interactive AI-powered chatbot that helps users analyze and clean dat
 
 ---
 
+## Contributors
+
+ALOYSIUS ANG ~ U2120520B
+WANG SHANG AN DAVIS ~ U2121998F
+
 ## 🚀 Features
 
 - Upload multiple CSV or Excel files.
